@@ -9,6 +9,7 @@ For backend now:
 **mvn install**, **mvn compile**
 
 For React now:
+go into foodRecipes/src/main/ui/src and run the following commands:
 **npm install**, **npm start**
 
 ## Teknologier som skal benyttes
