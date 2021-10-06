@@ -8,9 +8,7 @@ const Recipe = () =>  {
             <div>
 
             </div>
-            <Button variant='outline-danger' type='submit'>
-                Save
-            </Button>
+
         </form>
     );
 }
