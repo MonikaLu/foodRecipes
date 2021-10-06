@@ -1,13 +1,10 @@
-.App {
-  text-align: center;
-  color: white;
-  font-family: "Arial Black";
-}
 
 body {
-  background-color: burlywood;
+  background-color: burlywood !important;
+}
+.App {
+  text-align: center !important;
+  color: white;
+  font-family: "Helvetica Neue";
 }
 
-.recipeForm {
-
-}

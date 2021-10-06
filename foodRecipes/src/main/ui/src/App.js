@@ -1,14 +1,16 @@
 
 import './App.css';
 import Recipe from './components/Recipe'
+import React from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <div className="App">
+    <body className="App">
       <h1>Food Recipes</h1>
         <Recipe />
-    </div>
-  );
+    </body>
+  )
 }
 
 export default App;

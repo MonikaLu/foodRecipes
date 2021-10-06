@@ -1,16 +1,16 @@
 import React from "react";
+import Button from 'react-bootstrap/Button';
 
 const Recipe = () =>  {
+
     return(
         <form className="recipeForm">
             <div>
 
             </div>
-            <input type={"text"}/>
-            <button>
+            <Button variant='outline-danger' type='submit'>
                 Save
-            </button>
-
+            </Button>
         </form>
     );
 }
