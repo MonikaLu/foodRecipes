@@ -1,7 +1,15 @@
 # foodRecipes
-foodRecipes er et prosjekt som handler om oppskrifter. Brukeren har mulighet til å legge inn egne oppskrifter og kan søke disse opp.
+foodRecipes is an application where users can write their own recipes and search them by ingredients.
+The main goal is letting users find a recipe based on what they have in their fridge.
 
-## Hvordan kjøre applikasjonen
+## To run the application
+To run the application for the first time:
+
+For backend now:
+**mvn install**, **mvn compile**
+
+For React now:
+**npm install**, **npm start**
 
 ## Teknologier som skal benyttes
 - Java
