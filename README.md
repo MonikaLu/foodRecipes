@@ -1,3 +1,7 @@
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 # foodRecipes
 foodRecipes is an application where users can write their own recipes and search them by ingredients.
 The main goal is letting users find a recipe based on what they have in their fridge.
